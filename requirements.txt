@@ -1,0 +1,14 @@
+jsonrpclib-pelix
+lxml
+newspaper3k
+nltk
+numpy
+pika
+pymongo
+python-dateutil
+redis
+requests
+scipy
+sklearn
+tensorflow
+watchdog
