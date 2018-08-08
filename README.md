@@ -8,7 +8,7 @@ Implemented a data pipeline which monitors, scrapes and dedupes latest news
 Built a single-page web application for users to browse news (React, Node.js,
 RPC, SOA, JWT)
 
-## news_topic_modeling_service
+## news_recommendation_service
 Implemented a click event log processor which collects users’ click logs, then
 updates a news preference model for each user (NLP)
 
