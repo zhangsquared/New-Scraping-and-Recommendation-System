@@ -1,5 +1,7 @@
 # New-Scraping-and-Recommendation-System
 
+![alt text](https://github.com/zhangsquared/News-Scraping-and-Recommendation-System/blob/master/diagram.png)
+
 ## news_pipeline
 a data pipeline which monitors, scrapes and dedupes latest news
 (MongoDB, Redis, RabbitMQ, TF-IDF)
@@ -13,6 +15,9 @@ a click event log processor which collects users’ click logs, then updates a n
 (NLP)
 
 ## news_topic_modeling_service
+machine learning service
+
 an offline training pipeline for news topic modeling
 (Tensorflow, CNN, NLP)
+
 an online classifying service for news topic modeling using the trained model
